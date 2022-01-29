@@ -14,10 +14,10 @@ A simple calendar application that allows a user to save events for each hour of
 * Moment.js
 
 ## Web URL
-https://sophiequan.github.io/simply-my-scheduler/
+https://sophiequan.github.io/simply-scheduler/
 
 ## Repository URL
-https://github.com/SophieQuan/simply-my-scheduler
+https://github.com/SophieQuan/simply-scheduler
 
 ## Screenshots
 

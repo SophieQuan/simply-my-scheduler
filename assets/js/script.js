@@ -28,7 +28,7 @@ var loadTasks = function(){
 var colorBlock = function(){
     var currentHour = moment().hour();
     // console.log(currentHour);
-    // currentHour = 15;
+    currentHour = 16;
 
     for (i=9; i< 18; i++){
         var timeBlock  = $("#hour-" + i).find(".description");
