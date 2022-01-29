@@ -4,7 +4,7 @@ A simple calendar application that allows a user to save events for each hour of
 ## App Features
 * Current day is displayed at the top of the calendar
 * Time block is color-coded to indicate whether it is in the past, present, or future
-* Add, edit and save event to the time block
+* Add, edit and save event to the time blocks
 
 # Build with
 * HTML
@@ -19,5 +19,10 @@ https://sophiequan.github.io/simply-scheduler/
 ## Repository URL
 https://github.com/SophieQuan/simply-scheduler
 
+## Demo
+
+![screen shot Simply Scheduler](assets/images/demo.gif?raw=true "Optional Title")
+
 ## Screenshots
+![screen shot Simply Scheduler](assets/images/screenshot.png?raw=true "Optional Title")
 
